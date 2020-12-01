@@ -1,0 +1,11 @@
+Model Information:
+* title:	HouseExt
+* source:	https://sketchfab.com/3d-models/houseext-884077e179ec40ad8a159e5963a981ad
+* author:	TwilightSparkleX (https://sketchfab.com/TwilightSparkleX)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HouseExt" (https://sketchfab.com/3d-models/houseext-884077e179ec40ad8a159e5963a981ad) by TwilightSparkleX (https://sketchfab.com/TwilightSparkleX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
